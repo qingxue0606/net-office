@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.popdf" ID="{DBAAE5F1-6315-4EAC-956D-824DD0EBF845}\4.0\0"/>
+    <reference Name="interop.pageoffice" ID="{F2852C65-C2FC-4C86-8D6B-E4E97C92F821}\4.5\0"/>
+  </comReferences>
+</VisualWebDeveloper>
